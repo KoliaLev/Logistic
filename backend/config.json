@@ -1,9 +1,0 @@
-{
-	"DataBase": {
-		"Host": "localhost:5432",
-		"UserName": "postgres",
-		"Password": "admin",
-		"DataBaseName": "postgresaaa"
-	},
-	"WebHost": "localhost:3000"
-}
